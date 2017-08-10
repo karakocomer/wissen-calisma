@@ -1,0 +1,6 @@
+C:\Users\Wissen\Desktop\omer calısma\02082017\02082017\bin\Debug\02082017.exe.config
+C:\Users\Wissen\Desktop\omer calısma\02082017\02082017\obj\Debug\02082017.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\omer calısma\02082017\02082017\bin\Debug\02082017.exe
+C:\Users\Wissen\Desktop\omer calısma\02082017\02082017\bin\Debug\02082017.pdb
+C:\Users\Wissen\Desktop\omer calısma\02082017\02082017\obj\Debug\02082017.exe
+C:\Users\Wissen\Desktop\omer calısma\02082017\02082017\obj\Debug\02082017.pdb

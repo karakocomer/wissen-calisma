@@ -1,0 +1,12 @@
+c:\users\wissen\documents\visual studio 2015\Projects\diziler\diziler\bin\Debug\diziler.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\diziler\diziler\obj\Debug\diziler.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\diziler\diziler\bin\Debug\diziler.exe
+c:\users\wissen\documents\visual studio 2015\Projects\diziler\diziler\bin\Debug\diziler.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\diziler\diziler\obj\Debug\diziler.exe
+c:\users\wissen\documents\visual studio 2015\Projects\diziler\diziler\obj\Debug\diziler.pdb
+C:\Users\Wissen\Desktop\omer calısma\KONSOL\diziler\diziler\bin\Debug\diziler.exe.config
+C:\Users\Wissen\Desktop\omer calısma\KONSOL\diziler\diziler\obj\Debug\diziler.exe
+C:\Users\Wissen\Desktop\omer calısma\KONSOL\diziler\diziler\obj\Debug\diziler.pdb
+C:\Users\Wissen\Desktop\omer calısma\KONSOL\diziler\diziler\bin\Debug\diziler.exe
+C:\Users\Wissen\Desktop\omer calısma\KONSOL\diziler\diziler\bin\Debug\diziler.pdb
+C:\Users\Wissen\Desktop\omer calısma\KONSOL\diziler\diziler\obj\Debug\diziler.csprojResolveAssemblyReference.cache
