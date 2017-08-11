@@ -1,0 +1,15 @@
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\bin\Debug\10082017.exe.config
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\bin\Debug\10082017.exe
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\bin\Debug\10082017.pdb
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\10082017.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Form1.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Properties.Resources.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\10082017.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\10082017.exe
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\10082017.pdb
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Metotlar.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Form2.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Form3.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.hesapmakinesimetod.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Form4.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\10082017\10082017\obj\Debug\_10082017.Form5.resources
