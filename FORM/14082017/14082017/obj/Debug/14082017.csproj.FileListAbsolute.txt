@@ -1,0 +1,10 @@
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\bin\Debug\14082017.exe.config
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\bin\Debug\14082017.exe
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\bin\Debug\14082017.pdb
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\14082017.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\_14082017.Form1.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\_14082017.Properties.Resources.resources
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\14082017.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\14082017.exe
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\14082017.pdb
+C:\Users\Wissen\Desktop\omer calısma\FORM\14082017\14082017\obj\Debug\_14082017.Form2.resources
